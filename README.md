@@ -1,6 +1,6 @@
 👩🏻‍💻 Robson Pereira
 
-**`Analista de Dados | Projetos em Python, SQL e Power BI`**
+**`Analista de Dados`**
 
 Explorando dados e criando projetos que transformam informação em valor. Apaixonado por tecnologia, automação e visualização de dados.
 
