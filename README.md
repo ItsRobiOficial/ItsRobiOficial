@@ -2,12 +2,6 @@
 
 **`Analista de Dados`**
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 Explorando dados e criando projetos que transformam informação em valor. Apaixonado por tecnologia, automação e visualização de dados.
 
 📊 Foco em Python, SQL, Power BI e boas práticas de análise de dados.
@@ -66,4 +60,5 @@ Explorando dados e criando projetos que transformam informação em valor. Apaix
 
 ### 📈 Estatísticas do GitHub 
 
+### 📈 Estatísticas do GitHub
 <p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ItsRobiOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" /> </p>
