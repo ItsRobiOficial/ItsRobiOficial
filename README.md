@@ -60,20 +60,14 @@ Explorando dados e criando projetos que transformam informação em valor. Apaix
 
 ### 📈 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ItsRobiOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ItsRobiOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="200"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+    height="200"
   />
-
-</p>
+</div>
