@@ -1,5 +1,5 @@
 # Olá 👋, eu sou o Robson Pereira
-Bem-vindo à minha página!
+
 **`Analista de Dados`**
 
 🔭 Atualmente trabalhando em Projetos de análise de dados com foco em métricas de negócio, comportamento do cliente e performance comercial.
@@ -47,12 +47,13 @@ Bem-vindo à minha página!
 <img 
  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
  alt="mssql" 
- width="30" 
- height="30"
+ width="40" 
+ height="40"
  style="padding-right: 10px;"
  /> </a> <a href="https://www.mysql.com/"
           target="_blank"
           rel="noreferrer">
+/>
 
 <img 
     align="left" 
