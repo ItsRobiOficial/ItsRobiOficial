@@ -1,19 +1,19 @@
-# 🧠 Robson Pereira
-
+# Olá 👋, eu sou o Robson Pereira
+Bem-vindo à minha página!
 **`Analista de Dados`**
 
-Explorando dados e criando projetos que transformam informação em valor. Apaixonado por tecnologia, automação e visualização de dados.
+🔭 Atualmente trabalhando em Projetos de análise de dados com foco em métricas de negócio, comportamento do cliente e performance comercial.
 
-📊 Foco em Python, SQL, Power BI e boas práticas de análise de dados.
+📊 Atuo na construção de dashboards e análises voltadas à tomada de decisão, com foco em métricas como churn, LTV, CAC e crescimento.
 
- <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+ <a href="https://github.com/ItsRobiOficial?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ItsRobiOficial?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ItsRobiOficial?tab=repositories">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -45,6 +45,16 @@ Explorando dados e criando projetos que transformam informação em valor. Apaix
 />
 
 <img 
+ src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+ alt="mssql" 
+ width="30" 
+ height="30"
+ style="padding-right: 10px;"
+ /> </a> <a href="https://www.mysql.com/"
+          target="_blank"
+          rel="noreferrer">
+
+<img 
     align="left" 
     alt="Power BI" 
     title="Power BI"
@@ -57,8 +67,6 @@ Explorando dados e criando projetos que transformam informação em valor. Apaix
 <br/>
 
 ---
-
-### 📈 Estatísticas do GitHub 
 
 ### 📈 Estatísticas do GitHub
 <p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ItsRobiOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" /> </p>
