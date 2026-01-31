@@ -24,48 +24,37 @@
 
 ---
 
-### ⚙️ Linguagens e Ferramentas
-
-<img 
-    align="left" 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
-    style="padding-right: 10px; background-color: white; border-radius: 8px; padding: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+    width="30px"
+    style="background-color: white; border-radius: 8px; padding: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  />
 
-<img 
- src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
- alt="mssql" 
- width="40" 
- height="40"
- style="padding-right: 10px;"
- /> </a> <a href="https://www.mysql.com/"
-          target="_blank"
-          rel="noreferrer">
-/>
+  <img 
+    alt="SQL Server"
+    width="40"
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Power BI" 
     title="Power BI"
-    width="30px" 
-    style="padding-right: 10px; background-color: #f2c811; border-radius: 8px; padding: 5px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
+    width="30px"
+    style="background-color: #f2c811; border-radius: 8px; padding: 5px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+  />
+</div>
 
-<br/>
-<br/>
 
 ---
 
