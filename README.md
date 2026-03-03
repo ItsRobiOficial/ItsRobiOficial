@@ -1,8 +1,6 @@
-<h1 align="center">🚀 Robson Pereira Machado</h1>
-
 <p align="center">
-  📊 Data Analytics | 📈 Business Intelligence | 🧠 Estratégia Comercial
-</p>
+https://readme-typing-svg.herokuapp.com/demo/?weight=700&size=28&duration=2500&color=35B7F0&lines=Ol%C3%A1%2C+Sou+o+Robson+Pereira!;Data+Analytics+em+Forma%C3%A7%C3%A3o;Transformando+Dados+em+Decis%C3%B5es+Estrat%C3%A9gicas.
+</a>
 
 <p align="center">
   <a href="www.linkedin.com/in/robs-data">
