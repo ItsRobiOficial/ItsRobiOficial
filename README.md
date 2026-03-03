@@ -47,8 +47,8 @@ Minha abordagem é ponta a ponta:
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robs-data&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs-data&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ Minha meta é evoluir de Analista de Dados para Especialista em BI e futuramente
 ---
 
 <p align="center">
----
+
 
 📩 Sempre aberto a oportunidades e projetos na área de Dados e Business Intelligence.
 
