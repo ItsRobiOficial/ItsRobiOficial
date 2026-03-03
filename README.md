@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=35B7F0&width=435&lines=Ol%C3%A1%2C+Sou+o+Robson+Pereira!;Data+Analytics+em+Forma%C3%A7%C3%A3o;Transformando+Dados+em+Decisões%C3%B5es+Estratégicas%C3%A9gicas." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=35B7F0&width=435&lines=Ol%C3%A1%2C+Sou+o+Robson+Pereira!;Data+Analytics+em+Forma%C3%A7%C3%A3o;+Dados+e+Decis%C3%B5es+Estrat%C3%A9gicas." alt="Typing SVG" /></a>
 </a>
 
 <p align="center">
@@ -15,16 +15,16 @@
 
 ## 💡 Sobre Mim
 
-🎓 Técnico em Informática com foco em **Análise de Dados e BI**
+🎓 Graduando em Ciência de Dados com foco em Análise de Dados e Business Intelligence.  
+Minha abordagem é prática e orientada a resultado: transformo dados brutos em decisões estratégicas.
 
-Minha abordagem é ponta a ponta:
+📊 Atuo desde:
+- Tratamento e modelagem de dados (SQL Server)
+- Análise exploratória (Python)
+- Construção de dashboards estratégicos (Power BI)
+- Geração de insights para aumento de receita
 
-🔹 Engenharia e tratamento de dados (SQL Server)  
-🔹 Modelagem e análise exploratória (Python)  
-🔹 Dashboards estratégicos (Power BI)  
-🔹 Insights voltados para aumento de receita  
-
-💼 Diferencial: Experiência real na área comercial, conectando **dados + estratégia + resultado financeiro**.
+💼 Diferencial: Experiência prática na área comercial, o que me permite unir **dados + visão de negócio + performance de vendas**.
 
 ---
 
