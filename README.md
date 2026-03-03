@@ -68,5 +68,9 @@ Vamos transformar dados em decisões estratégicas.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake.svg" />
+  </picture>
 </p>
